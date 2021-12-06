@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Wyatt Williams' Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Wyatt Williams
+Student majoring in Business Analytics at Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="wil17112e@byui.edu">wil17112@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
@@ -14,72 +14,64 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
-## Education
+## Education 
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2019-2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Cumulative GPA: 
 
 
-## Related Experience
+## Work Experience
 
-### Internships
+`Apr 2021 – Present`
+__BYU - Idaho – Teacher’s Assistant for Managerial Economics__; Rexburg, Idaho
+- Evaluate assignments and presentations 
+- Motivate and assist students struggling with material content
+- Support the professor in their responsibilities
+     
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Apr 2021 – Present`
+__Connextion Properties – Janitor__; Rexburg, Idaho	
+- Ensure that properties are thoroughly cleaned and ready for new tenants
+- Maintain cleanliness of exterior and interior of properties
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`Mar 2020 – Sept 2020`
+__Lowe’s – Cashier__; Pocatello, Idaho
+- Delivered a quick, professional, and friendly checkout experience 
+- Ensured merchandise was accurately accounted
+- Resolved customer complaints
+- Managed incoming calls
 
-### Data Science Lead
+`Jun 2016 – Jul 2017`
+__Kesler’s Market – Merchandiser__; Blackfoot, Idaho
+Independent Grocery Store
+- Engaged with customers to develop relationships and loyalty
+- Maintained store appearance by organizing, replacing, and observing inventory levels on shelves
+- Ensured accuracy of product placement while unloading freight
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+## Skills
+- Experience in R Studios, Python, and Excel
+- Familiar with the basics of Linux and SQL
 
 
-## Service and Work History
+## Accomplishments
 
-`2025-2027`
-__Math Tutor__, LDSBC
+__Boy Scouts of America – Eagle Scout__	`Oct 2016`
+- Coordinated with troop members to ensure meaningful and productive activities
+- Counseled with other leaders to identify and resolve issues 
 
+__The Church of Jesus Christ of Latter-day Saints – Full-time Missionary__	`Aug 2017 – Aug 2019`
+Arkansas Bentonville Mission
 
-`2023-2025`
-__Service Missionary__, South Africa
+- Distributed literature through networking, social media, and door to door contact
+- Invited individuals to evaluate and set goals
+- Communicated information through presentations to increase knowledge and understanding
 
+__Other Recognitions__	
+- Alumni pianist for The Snake River Fine Arts scholarship program	`Nov 2019`
+- All-State Choir representative	`Nov 2016`
+- American Legion - Gem Boys State representative	     `Jun 2016`
 
 
 <!-- ### Footer
