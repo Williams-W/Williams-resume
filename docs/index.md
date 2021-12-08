@@ -25,27 +25,27 @@ Minor: Economics
 ## Work Experience
 
 `Apr 2021 – Present`
-__BYU - Idaho – Teacher’s Assistant for Managerial Economics__; Rexburg, Idaho
+__BYU - Idaho – Teacher’s Assistant for Managerial Economics__; Rexburg, Idaho        
 __-__ Evaluate assignments and presentations      
 __-__ Motivate and assist students struggling with material content     
 __-__ Support the professor in their responsibilities     
      
 
 `Apr 2021 – Present`
-__Connextion Properties – Janitor__; Rexburg, Idaho	
+__Connextion Properties – Janitor__; Rexburg, Idaho	         
 __-__ Ensure that properties are thoroughly cleaned and ready for new tenants      
 __-__ Maintain cleanliness of exterior and interior of properties      
 
 `Mar 2020 – Sept 2020`
-__Lowe’s – Cashier__; Pocatello, Idaho     
+__Lowe’s – Cashier__; Pocatello, Idaho           
 __-__ Delivered a quick, professional, and friendly checkout experience      
 __-__ Ensured merchandise was accurately accounted     
 __-__ Resolved customer complaints     
 __-__ Managed incoming calls
 
 `Jun 2016 – Jul 2017`
-__Kesler’s Market – Merchandiser__; Blackfoot, Idaho
-Independent Grocery Store
+__Kesler’s Market – Merchandiser__; Blackfoot, Idaho      
+Independent Grocery Store      
 __-__ Engaged with customers to develop relationships and loyalty     
 __-__ Maintained store appearance by organizing, replacing, and observing inventory levels on shelves     
 __-__ Ensured accuracy of product placement while unloading freight     
@@ -57,7 +57,7 @@ __-__ Familiar with the basics of Linux and SQL
 
 ## Accomplishments
 
-__Boy Scouts of America – Eagle Scout__	`Oct 2016`
+__Boy Scouts of America – Eagle Scout__	     `Oct 2016`     
 __-__ Coordinated with troop members to ensure meaningful and productive activities     
 __-__ Counseled with other leaders to identify and resolve issues      
 
