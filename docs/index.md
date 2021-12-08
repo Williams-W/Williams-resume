@@ -3,24 +3,24 @@ layout: cv
 title: Wyatt Williams' Resume
 ---
 # Wyatt Williams
-Student majoring in Business Analytics at Brigham Young University - Idaho
-
+###### wil17112@byui.edu
+-----
 <div id="webaddress">
-<a href="wil17112e@byui.edu">wil17112@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+---
 ## Education 
 
 `2019-2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Cumulative GPA: 
+Bachelor of Science in Business Analytics	
 
+Minor: Economics 
 
 ## Work Experience
 
@@ -69,9 +69,13 @@ Arkansas Bentonville Mission
 - Communicated information through presentations to increase knowledge and understanding
 
 __Other Recognitions__	
-- Alumni pianist for The Snake River Fine Arts scholarship program	`Nov 2019`
-- All-State Choir representative	`Nov 2016`
-- American Legion - Gem Boys State representative	     `Jun 2016`
+
+`Nov 2019`
+- Alumni pianist for The Snake River Fine Arts scholarship program
+`Nov 2016`
+- All-State Choir representative	
+`Jun 2016`
+- American Legion - Gem Boys State representative	     
 
 
 <!-- ### Footer
