@@ -3,11 +3,10 @@ layout: cv
 title: Wyatt Williams' Resume
 ---
 # Wyatt Williams
-##### wil17112@byui.edu
+
 -----
 <div id="webaddress">
-<a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="mailto: wil17112@byui.edu">wil17112@byui.edu</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
