@@ -3,10 +3,10 @@ layout: cv
 title: Wyatt Williams' Resume
 ---
 # Wyatt Williams
-###### wil17112@byui.edu
+##### wil17112@byui.edu
 -----
 <div id="webaddress">
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
@@ -64,18 +64,15 @@ __Boy Scouts of America – Eagle Scout__	`Oct 2016`
 __The Church of Jesus Christ of Latter-day Saints – Full-time Missionary__	`Aug 2017 – Aug 2019`
 Arkansas Bentonville Mission
 
-- Distributed literature through networking, social media, and door to door contact
-- Invited individuals to evaluate and set goals
-- Communicated information through presentations to increase knowledge and understanding
+__-__ Distributed literature through networking, social media, and door to door contact
+__-__ Invited individuals to evaluate and set goals
+__-__ Communicated information through presentations to increase knowledge and understanding
 
 __Other Recognitions__	
 
-`Nov 2019`
-- Alumni pianist for The Snake River Fine Arts scholarship program
-`Nov 2016`
-- All-State Choir representative	
-`Jun 2016`
-- American Legion - Gem Boys State representative	     
+__-__ Alumni pianist for The Snake River Fine Arts scholarship program `Nov 2019`  
+__-__ All-State Choir representative	 `Nov 2016` 
+__-__ American Legion - Gem Boys State representative `Jun 2016`	     
 
 
 <!-- ### Footer
