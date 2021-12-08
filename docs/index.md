@@ -26,42 +26,42 @@ Minor: Economics
 
 `Apr 2021 – Present`
 __BYU - Idaho – Teacher’s Assistant for Managerial Economics__; Rexburg, Idaho
-- Evaluate assignments and presentations 
-- Motivate and assist students struggling with material content
-- Support the professor in their responsibilities
+__-__ Evaluate assignments and presentations      
+__-__ Motivate and assist students struggling with material content     
+__-__ Support the professor in their responsibilities     
      
 
 `Apr 2021 – Present`
 __Connextion Properties – Janitor__; Rexburg, Idaho	
-- Ensure that properties are thoroughly cleaned and ready for new tenants
-- Maintain cleanliness of exterior and interior of properties
+__-__ Ensure that properties are thoroughly cleaned and ready for new tenants      
+__-__ Maintain cleanliness of exterior and interior of properties      
 
 `Mar 2020 – Sept 2020`
-__Lowe’s – Cashier__; Pocatello, Idaho
-- Delivered a quick, professional, and friendly checkout experience 
-- Ensured merchandise was accurately accounted
-- Resolved customer complaints
-- Managed incoming calls
+__Lowe’s – Cashier__; Pocatello, Idaho     
+__-__ Delivered a quick, professional, and friendly checkout experience      
+__-__ Ensured merchandise was accurately accounted     
+__-__ Resolved customer complaints     
+__-__ Managed incoming calls
 
 `Jun 2016 – Jul 2017`
 __Kesler’s Market – Merchandiser__; Blackfoot, Idaho
 Independent Grocery Store
-- Engaged with customers to develop relationships and loyalty
-- Maintained store appearance by organizing, replacing, and observing inventory levels on shelves
-- Ensured accuracy of product placement while unloading freight
+__-__ Engaged with customers to develop relationships and loyalty     
+__-__ Maintained store appearance by organizing, replacing, and observing inventory levels on shelves     
+__-__ Ensured accuracy of product placement while unloading freight     
 
 ## Skills
-- Experience in R Studios, Python, and Excel
-- Familiar with the basics of Linux and SQL
+__-__ Experience in R Studios, Python, and Excel     
+__-__ Familiar with the basics of Linux and SQL     
 
 
 ## Accomplishments
 
 __Boy Scouts of America – Eagle Scout__	`Oct 2016`
-- Coordinated with troop members to ensure meaningful and productive activities
-- Counseled with other leaders to identify and resolve issues 
+__-__ Coordinated with troop members to ensure meaningful and productive activities     
+__-__ Counseled with other leaders to identify and resolve issues      
 
-__The Church of Jesus Christ of Latter-day Saints – Full-time Missionary__	`Aug 2017 – Aug 2019`
+__The Church of Jesus Christ of Latter-day Saints – Full-time Missionary__     	`Aug 2017 – Aug 2019`     
 Arkansas Bentonville Mission
 
 __-__ Distributed literature through networking, social media, and door to door contact     
