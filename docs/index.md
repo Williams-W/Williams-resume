@@ -64,15 +64,15 @@ __Boy Scouts of America – Eagle Scout__	`Oct 2016`
 __The Church of Jesus Christ of Latter-day Saints – Full-time Missionary__	`Aug 2017 – Aug 2019`
 Arkansas Bentonville Mission
 
-__-__ Distributed literature through networking, social media, and door to door contact
-__-__ Invited individuals to evaluate and set goals
+__-__ Distributed literature through networking, social media, and door to door contact     
+__-__ Invited individuals to evaluate and set goals     
 __-__ Communicated information through presentations to increase knowledge and understanding
 
 __Other Recognitions__	
 
-__-__ Alumni pianist for The Snake River Fine Arts scholarship program `Nov 2019`  
-__-__ All-State Choir representative	 `Nov 2016` 
-__-__ American Legion - Gem Boys State representative `Jun 2016`	     
+__-__ Alumni pianist for The Snake River Fine Arts scholarship program      `Nov 2019`       
+__-__ All-State Choir representative     	 `Nov 2016`      
+__-__ American Legion - Gem Boys State representative      `Jun 2016`	          
 
 
 <!-- ### Footer
