@@ -9,10 +9,10 @@ Email:
 <div id="webaddress">
 <a href="mailto: wyattwilliams99@hotmail.com">wyattwilliams99@hotmail.com</a>
 </div>
-Call or Text: 208-970-8653
+
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
-
+Call or Text: 208-970-8653
 ---
 ## Education 
 
@@ -59,14 +59,14 @@ __-__ Ensured accuracy of product placement while unloading freight
 
 ## Skills
 __-__ Experience in R Studios, Python, Jupyter Notebooks, SQL, Power BI, Tableau, and Excel  
-__-__ PAssionate about data wrangling and visualization   
+__-__ Passionate about data wrangling and visualization   
 __-__ Familiar with the basics of Linux, HTM, and CSS
 __-__ Self-learner who can sesolve coding problems with resources available
 
 
 ## Accomplishments
 
-__Data Science Society__
+__Data Science Society__      `Sept 2022 - Dec 2022`
 __-__ Worked with BYU Pathways to improve academic learning
 
 __Boy Scouts of America – Eagle Scout__	     `Oct 2016`     
