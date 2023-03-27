@@ -2,7 +2,7 @@
 layout: cv
 title: Wyatt Williams' Resume
 ---
-# Wyatt Williams 
+# Wyatt Williams
 
 -----
 <div id="webaddress">
