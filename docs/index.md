@@ -28,7 +28,7 @@ __-__ Oversaw the automation of member notifications
 __-__ Contributed and participated in team projects            
 
 `Apr 2021 – Dec 2021; Sept 2022 - Dec 2022`
-__BYU - Idaho – Teacher’s Assistant for Managerial Economics__; Rexburg, Idaho                 
+__BYU - Idaho – Teacher’s Assistant__; Rexburg, Idaho                              
 Managerial Economics and Business Analytics
 __-__ Evaluate assignments and presentations      
 __-__ Motivate and assist students struggling with material  
