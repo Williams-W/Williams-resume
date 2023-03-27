@@ -72,8 +72,7 @@ __-__ Counseled with other leaders to identify and resolve issues
 __The Church of Jesus Christ of Latter-day Saints – Full-time Missionary__     	`Aug 2017 – Aug 2019`     
 Arkansas Bentonville Mission
 
-__Other Recognitions__	
-
+__Other Recognitions__	                    
 __-__ Alumni pianist for The Snake River Fine Arts scholarship program      `Nov 2019`       
 __-__ All-State Choir representative     	 `Nov 2016`      
 __-__ American Legion - Gem Boys State representative      `Jun 2016`	          
