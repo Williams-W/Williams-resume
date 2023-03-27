@@ -2,11 +2,12 @@
 layout: cv
 title: Wyatt Williams' Resume
 ---
-# Wyatt Williams
+# Wyatt Williams 
 
 -----
 <div id="webaddress">
-<a href="mailto: wil17112@byui.edu">wil17112@byui.edu</a>
+<a href="mailto: wyattwilliams99@hotmail.com">wyattwilliams99@hotmail.com</a>
+Call or Text: 208-970-8653
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -21,19 +22,25 @@ Bachelor of Science in Business Analytics
 
 Minor: Economics 
 
-## Work Experience
+## Experience
 
-`Apr 2021 – Present`
-__BYU - Idaho – Teacher’s Assistant for Managerial Economics__; Rexburg, Idaho        
+`Jan 2022 – Apr 2022`
+__Idaho Central Credit Union__; Rexburg, Idaho  
+__-__Learned about inventory management
+__-__Oversaw the automation of member notifications
+__-__Contributed and participated in team projects
+
+`Apr 2021 – Dec 2021; Sept 2022 - Dec 2022`
+__BYU - Idaho – Teacher’s Assistant for Managerial Economics__; Rexburg, Idaho 
+Managerial Economics and Business Analytics
 __-__ Evaluate assignments and presentations      
-__-__ Motivate and assist students struggling with material content     
+__-__ Motivate and assist students struggling with material  
 __-__ Support the professor in their responsibilities     
      
 
 `Apr 2021 – Present`
 __Connextion Properties – Janitor__; Rexburg, Idaho	         
-__-__ Ensure that properties are thoroughly cleaned and ready for new tenants      
-__-__ Maintain cleanliness of exterior and interior of properties      
+__-__ Transformed entire apartment complexes while under time constraints   
 
 `Mar 2020 – Sept 2020`
 __Lowe’s – Cashier__; Pocatello, Idaho           
@@ -50,22 +57,23 @@ __-__ Maintained store appearance by organizing, replacing, and observing invent
 __-__ Ensured accuracy of product placement while unloading freight     
 
 ## Skills
-__-__ Experience in R Studios, Python, and Excel     
-__-__ Familiar with the basics of Linux and SQL     
+__-__ Experience in R Studios, Python, Jupyter Notebooks, SQL, Power BI, Tableau, and Excel  
+__-__ PAssionate about data wrangling and visualization   
+__-__ Familiar with the basics of Linux, HTM, and CSS
+__-__ Self-learner who can sesolve coding problems with resources available
 
 
 ## Accomplishments
 
+__Data Science Society__
+__-__ Worked with BYU Pathways to improve academic learning
+
 __Boy Scouts of America – Eagle Scout__	     `Oct 2016`     
-__-__ Coordinated with troop members to ensure meaningful and productive activities     
+__-__ Coordinated with troop members    
 __-__ Counseled with other leaders to identify and resolve issues      
 
 __The Church of Jesus Christ of Latter-day Saints – Full-time Missionary__     	`Aug 2017 – Aug 2019`     
 Arkansas Bentonville Mission
-
-__-__ Distributed literature through networking, social media, and door to door contact     
-__-__ Invited individuals to evaluate and set goals     
-__-__ Communicated information through presentations to increase knowledge and understanding
 
 __Other Recognitions__	
 
