@@ -28,7 +28,7 @@ __-__ Contributed and participated in team projects
 
 `Apr 2021 – Dec 2021; Sept 2022 - Dec 2022`
 __BYU - Idaho – Teacher’s Assistant__; Rexburg, Idaho                              
-Managerial Economics and Business Analytics
+Managerial Economics and Business Analytics                                    
 __-__ Evaluate assignments and presentations      
 __-__ Motivate and assist students struggling with material  
 __-__ Support the professor in their responsibilities     
@@ -56,7 +56,7 @@ __-__ Ensured accuracy of product placement while unloading freight
 __Data Analytic Abilities__                                            
 __-__ Experience in R Studios, Python, Jupyter Notebooks, SQL, Power BI, Tableau, and Excel  
 __-__ Passionate about data wrangling and visualization   
-__-__ Familiar with the basics of Linux, HTM, and CSS
+__-__ Familiar with the basics of Linux, HTM, and CSS                             
 __-__ Self-learner who can sesolve coding problems with resources available
 
 
