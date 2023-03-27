@@ -3,12 +3,10 @@ layout: cv
 title: Wyatt Williams' Resume
 ---
 # Wyatt Williams
-------
-
-Email:<div id="webaddress"><a href="mailto: wyattwilliams99@hotmail.com">wyattwilliams99@hotmail.com</a></div>
+<div id="webaddress"><a href="mailto: wyattwilliams99@hotmail.com">Email: wyattwilliams99@hotmail.com</a></div>
 <!-- https://www.monique.tech/the-art-of-markdown -->
 Call or Text: 208-970-8653
----
+-----
 ## Education 
 
 `2019-2022`
