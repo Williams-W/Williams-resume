@@ -53,6 +53,7 @@ __-__ Maintained store appearance by organizing, replacing, and observing invent
 __-__ Ensured accuracy of product placement while unloading freight     
 
 ## Skills
+__Data Analytic Abilities__
 __-__ Experience in R Studios, Python, Jupyter Notebooks, SQL, Power BI, Tableau, and Excel  
 __-__ Passionate about data wrangling and visualization   
 __-__ Familiar with the basics of Linux, HTM, and CSS
