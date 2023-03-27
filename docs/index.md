@@ -5,10 +5,11 @@ title: Wyatt Williams' Resume
 # Wyatt Williams 
 
 -----
+Email:
 <div id="webaddress">
 <a href="mailto: wyattwilliams99@hotmail.com">wyattwilliams99@hotmail.com</a>
-Call or Text: 208-970-8653
 </div>
+Call or Text: 208-970-8653
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
@@ -26,9 +27,9 @@ Minor: Economics
 
 `Jan 2022 – Apr 2022`
 __Idaho Central Credit Union__; Rexburg, Idaho  
-__-__Learned about inventory management
-__-__Oversaw the automation of member notifications
-__-__Contributed and participated in team projects
+__-__ Learned about inventory management
+__-__ Oversaw the automation of member notifications
+__-__ Contributed and participated in team projects
 
 `Apr 2021 – Dec 2021; Sept 2022 - Dec 2022`
 __BYU - Idaho – Teacher’s Assistant for Managerial Economics__; Rexburg, Idaho 
